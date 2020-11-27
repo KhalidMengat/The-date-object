@@ -1,6 +1,3 @@
-const main = document.createElement('main')
-
-
 let Brussel = new Date()
 
 let Anchora = new Date(new Date().getTime() - (9 * 60 * 60 * 1000))
