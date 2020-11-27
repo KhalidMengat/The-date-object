@@ -10,6 +10,8 @@ let weekday = [ 'Sun', 'Mon', 'Tue',
 let month = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
 
+
+
 // creation des differents elements//
 
 const conteneur = document.createElement('div');
